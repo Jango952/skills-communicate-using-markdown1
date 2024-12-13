@@ -1,6 +1,3 @@
-#Header
-##### Headererer
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-
-
-I made the headers large and small :)
+I added a cat :O
